@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import onClickOutside from 'react-onclickoutside';
-import './scss/App.scss';
+import './App.scss';
 
 function Dropdown({ title, items, multiSelect = false }) {
   const [open, setOpen] = useState(false);
