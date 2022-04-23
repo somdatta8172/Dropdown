@@ -1,5 +1,5 @@
 import React from 'react';
-import './scss/App.scss';
+import './App.scss';
 import Dropdown from './Dropdown';
 
 const items = [
